@@ -1,0 +1,2 @@
+# Pihole
+DNS Sinkhole
