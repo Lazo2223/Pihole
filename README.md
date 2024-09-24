@@ -1,2 +1,2 @@
 # Pihole
-DNS Sinkhole
+DNS Sinkhole TO DO how to set up
